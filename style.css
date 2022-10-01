@@ -26,3 +26,13 @@
     color: white;
     text-decoration: none;
 }
+
+.register a{
+    padding: 14px 32px;
+    background: gray;
+    border-radius: 20rem;
+    font-weight: 600;
+    letter-spacing: 1.4px;
+    color: white;
+    text-decoration: none;
+}
